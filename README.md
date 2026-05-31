@@ -1,16 +1,26 @@
-## Hi there 👋
+Giovanni Boni
+From Farm Worker to Full-Stack Developer
 
-<!--
-**Giovanni9000/Giovanni9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After 4 years of customer service, financial planning and agricultural operations I traded all of that for code. Now I build web applications with JavaScript, React, Node.js, and Firebase – bringing the same undivided focus and client‑first mindset to every project.
 
-Here are some ideas to get you started:
+🎯 What I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Build responsive, user‑friendly frontends (React, HTML/CSS)
+
+Create RESTful APIs and full‑stack apps (Node.js, Express, MongoDB)
+
+Deploy and maintain live projects (Netlify, Git, GitHub)
+
+🚀 Recent work:
+
+Amazon clone with cart persistence, filtering, and dark mode
+
+Urban Threads online store (Firebase auth, Firestore, localStorage cart)
+
+Tic Tac Toe with move history and useReducer state management
+
+🌱 Currently:
+
+Mastering backend integration (Node.js, Redis, JWT)
+
+Preparing for a junior developer role
